@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Black Pen Bic",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Laptop Macbook Pro 14",
+      "price": 6532.89
+    },
+    {
+      "id": 3,
+      "name": "Printer HP",
+      "price": 332.89
+    },
+    {
+      "id": 4,
+      "name": "Scaner",
+      "price": 234.89
+    },
+    {
+      "id": 5,
+      "name": "Wood Table",
+      "price": 1125.89
+    },
+    {
+      "id": 6,
+      "name": "Game chair",
+      "price": 1345.89
+    },
+    {
+      "name": "Samsumg S20+",
+      "price": 995.89,
+      "id": 7
+    }
+  ]
+}

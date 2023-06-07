@@ -1,0 +1,9 @@
+GET http://localhost:3001/products
+###
+POST http://localhost:3001/products
+content-type: application/json
+
+{
+  "name": "Samsumg S20+",
+  "price": 995.89
+}
